@@ -1,0 +1,611 @@
+Carimbo de data/hora,Você faz parte do grupo do Facebook Ceratocone e Tratamentos?,Qual a sua idade?,Qual seu sexo?,Você possui alergia a poeria?,Você possui alergia a algum medicamento?,Você possui alergia a algum alimento?,Você costuma coçar os olhos frequentemente?,Você faz uso de colírio lubrificante constantemente?,Você é ou já foi fumante ?,Você já utiliza/utilizou óculos?,"Por quantos anos utiliza/utilizou óculos? (Inserir apenas número, caso use o campo outros)",Você já usou lentes de contato?,"Por quantos anos utiliza/utilizou lentes de contato? (Inserir apenas número, caso use o campo outros)",Você possui Miopia ?,Você possui astigmatismo?,Já realizou alguma cirurgia corretiva de grau?,Você é portador de ceratocone?,Possui algum parente de primeiro grau portador do ceratocone?
+27/09/2018 14:10:46,Sim,23,Masculino,Sim,Sim,Não,Não,Não,Sim,Não,0,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 14:14:09,Sim,22,Feminino,Sim,Não,Sim,Sim,Sim,Não,Sim,10,Sim,13,Sim,Sim,Não,Sim,Sim
+27/09/2018 14:15:03,Sim,34,Feminino,Sim,Não,Sim,Sim,Não,Não,Sim,vários ,Sim,5,,Sim,Não,Sim,Sim
+27/09/2018 14:15:31,Sim,19,Masculino,Sim,Não,Não,Não,Sim,Sim,Sim,2,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 14:15:47,Não,34,Masculino,Sim,Não,Não,Não,Não,Não,Sim,22,Não,0,Sim,Não,Não,Não,Não
+27/09/2018 14:15:55,Sim,24,Feminino,Não,Não,Não,Sim,Não,Não,Não,0,Não,0,Não,Sim,Não,Sim,Não
+27/09/2018 14:20:00,Sim,25,Feminino,Sim,Não,Não,Não,Sim,Não,Sim,10,Sim,4,Sim,Sim,Não,Sim,Não
+27/09/2018 14:20:20,Sim,32,Feminino,Sim,Não,Sim,Não,Não,Não,Sim,20 anos,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 14:21:47,Sim,21,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,2,Sim,0,Sim,Sim,Sim,Sim,Não
+27/09/2018 14:21:54,Sim,25,Feminino,Não,Não,Não,Sim,Não,Não,Não,0,Sim,10,Não,Não,Não,Sim,Sim
+27/09/2018 14:22:11,Sim,32,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,8,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 14:22:51,Sim,31,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,1,Não,0,Não,Sim,Não,Não,Não
+27/09/2018 14:22:53,Sim,29,Feminino,Sim,Sim,Sim,Não,Não,Não,Sim,10,Sim,1,Sim,Sim,Sim,Sim,Não
+27/09/2018 14:23:10,Não,33,Feminino,Sim,Não,Não,Não,Não,Não,Sim,3,Não,0,Sim,Sim,Não,Não,Sim
+27/09/2018 14:24:36,Sim,25,Feminino,Sim,Não,Sim,Sim,Sim,Não,Sim,0,Não,0,Não,Sim,Não,Sim,Não
+27/09/2018 14:27:02,Sim,24,Masculino,Sim,Não,Sim,Sim,Sim,Não,Sim,24,Não,0,Sim,Sim,Não,Sim,Sim
+27/09/2018 14:27:05,Sim,42,Feminino,Sim,Sim,Não,Sim,Sim,Não,Não,0,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 14:27:48,Sim,19,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,3,Não,0,Sim,Sim,Não,Não,Não
+27/09/2018 14:28:18,Sim,38,Feminino,Sim,Não,Não,Sim,Sim,Não,Não,0,Sim,25,Sim,Sim,Sim,Sim,Sim
+27/09/2018 14:28:47,Sim,30,Masculino,Sim,Sim,Não,Sim,Não,Não,Sim,10,Sim,2,Não,Sim,Sim,Sim,Não
+27/09/2018 14:29:49,Sim,46,Feminino,Sim,Não,Não,Não,Sim,Sim,Sim,16,Sim,20,Sim,Sim,Não,Sim,Não
+27/09/2018 14:30:19,Sim,23,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,4,Não,0,Não,Sim,Não,Sim,Não
+27/09/2018 14:30:21,Sim,27,Feminino,Sim,Não,Não,Não,Não,Sim,Sim,4,Sim,6,Sim,Sim,Não,Sim,Sim
+27/09/2018 14:30:46,Sim,24,Feminino,Sim,Não,Não,Sim,Não,Sim,Sim,2,Sim,1,Sim,Sim,Não,Sim,Sim
+27/09/2018 14:32:10,Não,44,Masculino,Não,Não,Não,Não,Não,Não,Sim,25,Sim,5,Sim,Não,Não,Não,Não
+27/09/2018 14:32:14,Sim,27,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,Mais de 20 anos,Sim,Não me adaptei,Sim,Sim,Não,Sim,Não
+27/09/2018 14:32:48,Sim,36,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,30 anos,Sim,1,Sim,Sim,Sim,Sim,Sim
+27/09/2018 14:32:56,Sim,34,Masculino,Sim,Não,Não,Sim,Não,Sim,Sim,2,Sim,10,Sim,Sim,Não,Sim,Não
+27/09/2018 14:33:24,Sim,29,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,10,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 14:34:08,Sim,15,Masculino,Sim,Sim,Sim,Sim,Sim,Não,Não,0,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 14:36:48,Sim,36,Feminino,Sim,Não,Sim,Sim,Sim,Não,Sim,4,Sim,1,Sim,Sim,Sim,Sim,Sim
+27/09/2018 14:37:57,Sim,35,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,23 anos ,Sim,Estou usando a 3 meses ,Sim,Sim,Não,Sim,Não
+27/09/2018 14:38:11,Sim,28,Masculino,Não,Não,Não,Sim,Não,Não,Sim,1,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 14:38:53,Sim,62,Feminino,Sim,Sim,Não,Não,Não,Sim,Sim,30,Sim,30,Sim,Sim,Não,Sim,Sim
+27/09/2018 14:39:42,Não,24,Masculino,Não,Não,Não,Sim,Não,Sim,Não,0,Não,0,Não,Sim,Sim,Não,Não
+27/09/2018 14:41:29,Não,26,Feminino,Não,Não,Não,Não,Não,Não,Sim,1,Não,0,Não,Sim,Não,Não,Não
+27/09/2018 14:41:46,Sim,28,Masculino,Sim,Não,Sim,Sim,Sim,Não,Não,0,Sim,1 mes,Sim,Sim,Não,Sim,Não
+27/09/2018 14:42:47,Sim,47,Masculino,Não,Não,Sim,Sim,Não,Sim,Sim,36,Sim,23,Sim,Sim,Não,Sim,Não
+27/09/2018 14:43:11,Sim,34,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,Uso tem 27 anos,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 14:43:16,Sim,31,Masculino,Sim,Não,Não,Não,Não,Sim,Sim,Uns 25,Sim,10,Sim,Sim,Não,Sim,Não
+27/09/2018 14:43:32,Sim,50,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,10,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 14:45:05,Sim,30,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,10,Sim,3,Sim,Sim,Não,Sim,Não
+27/09/2018 14:45:47,Sim,36,Feminino,Sim,Sim,Sim,Não,Sim,Não,Sim,1,Não,0,Sim,Sim,Não,Sim,Sim
+27/09/2018 14:46:06,Sim,26,Feminino,Não,Não,Não,Não,Sim,Não,Sim,1,Sim,10,Sim,Sim,Sim,Sim,Não
+27/09/2018 14:47:32,Sim,33,Feminino,Sim,Não,Não,Não,Sim,Não,Sim,10,Sim,3 meses tentando adaptar ,Sim,Sim,Não,Sim,Não
+27/09/2018 14:47:44,Sim,31,Masculino,Sim,Não,Não,Não,Não,Não,Sim,Mais de 10 anos,Sim,Mais de 10 anos,Sim,Sim,Não,Sim,Não
+27/09/2018 14:49:35,Sim,32,Feminino,Não,Não,Não,Sim,Não,Não,Não,0,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 14:50:10,Sim,27,Masculino,Não,Não,Não,Não,Sim,Não,Sim,4,Sim,2 meses,Sim,Sim,Não,Sim,Não
+27/09/2018 14:51:16,Sim,34,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,15,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 14:51:43,Sim,19,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,3,Sim,3,Sim,Sim,Não,Sim,Não
+27/09/2018 14:51:59,Sim,26,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,5,Sim,4,Sim,Sim,Não,Sim,Não
+27/09/2018 14:52:32,Não,31,Feminino,Sim,Sim,Sim,Sim,Não,Não,Sim,4 meses,Não,0,Sim,Não,Não,Não,Não
+27/09/2018 14:54:04,Sim,35,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,5,Sim,Ainds uso,Não,Sim,Não,Sim,Não
+27/09/2018 14:54:48,Não,29,Masculino,Não,Não,Não,Sim,Não,Sim,Sim,20,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 14:55:18,Sim,31,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,25,Sim,4,Sim,Sim,Não,Sim,Não
+27/09/2018 14:56:07,Sim,24,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,2,Sim,8,Não,Sim,Não,Sim,Não
+27/09/2018 14:57:47,Não,36,Feminino,Sim,Não,Não,Não,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+27/09/2018 14:57:57,Sim,32,Feminino,Sim,Sim,Não,Não,Sim,Não,Sim,2,Sim,Ainda uso ,Não,Não,Sim,Sim,Sim
+27/09/2018 14:59:04,Sim,39,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,10,Sim,5,Não,Sim,Não,Sim,Não
+27/09/2018 14:59:56,Sim,18,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,4,Sim,0,Sim,Sim,Não,Sim,Sim
+27/09/2018 15:00:26,Sim,31,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,7,Sim,3,Sim,Sim,Sim,Sim,Não
+27/09/2018 15:00:29,Sim,33,Feminino,Sim,Não,Não,Não,Não,Sim,Sim,7,Sim,Não me adaptei,Sim,Sim,Não,Sim,Sim
+27/09/2018 15:00:30,Sim,34,Feminino,Sim,Sim,Não,Sim,Sim,Sim,Sim,Desde pequena com 7 anos e hj tenho 34 anos,Sim,1 ano a gelatinosa 1 ano a escleral 1 ano a rigida e todas deram rejeicao,Sim,Sim,Sim,Sim,Sim
+27/09/2018 15:02:02,Sim,26,Feminino,Sim,Sim,Não,Sim,Sim,Não,Não,0,Não,0,Não,Não,Não,Sim,Não
+27/09/2018 15:02:04,Sim,37,Masculino,Sim,Não,Sim,Sim,Não,Não,Sim,2,Sim,7,Sim,Sim,Não,Sim,Não
+27/09/2018 15:02:23,Não,29,Masculino,Sim,Não,Não,Sim,Sim,Não,Sim,5,Não,0,Sim,Não,Não,Não,Não
+27/09/2018 15:04:17,Sim,9,Masculino,Sim,Não,Não,Sim,Sim,Não,Não,0,Não,0,Não,Não,Não,Sim,Não
+27/09/2018 15:07:42,Sim,20,Masculino,Sim,Não,Não,Sim,Sim,Não,Sim,0,Sim,5,Não,Não,Não,Sim,Não
+27/09/2018 15:08:27,Sim,19,Masculino,Não,Não,Não,Sim,Não,Não,Sim,1,Não,Nunca usou,,Sim,Não,Sim,Não
+27/09/2018 15:09:14,Sim,27,Feminino,Sim,Não,Sim,Sim,Sim,Não,Não,0,Não,0,Não,Não,Não,Sim,Não
+27/09/2018 15:10:34,Sim,26,Masculino,Não,Não,Não,Não,Não,Não,Não,0,Sim,5,Sim,Sim,Sim,Sim,Sim
+27/09/2018 15:10:42,Sim,31,Masculino,Não,Não,Não,Não,Não,Não,Sim,12,Sim,0,Não,Sim,Sim,Sim,Não
+27/09/2018 15:11:05,Sim,30,Feminino,Sim,Sim,Não,Sim,Sim,Não,Não,0,Sim,1,Não,Sim,Não,Sim,Não
+27/09/2018 15:11:28,Sim,19,Masculino,Não,Não,Não,Sim,Não,Não,Sim,1,Não,0,Não,Sim,Não,Sim,Não
+27/09/2018 15:13:22,Não,26,Feminino,Não,Não,Sim,Não,Sim,Sim,Sim,Desde os 8 anos ,Sim,4,Sim,Não,Não,Não,Não
+27/09/2018 15:13:37,Não,46,Feminino,Sim,Sim,Sim,Sim,Não,Sim,Sim,10,Não,Nao me adaptei,Sim,Sim,Não,Não,Não
+27/09/2018 15:15:47,Sim,18,Masculino,Não,Não,Não,Sim,Sim,Não,Sim,0,Sim,2,Sim,Sim,Sim,Sim,Sim
+27/09/2018 15:15:47,Sim,24,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,10,Sim,5,Sim,Sim,Não,Sim,Não
+27/09/2018 15:16:04,Sim,47,Feminino,Não,Não,Não,Não,Sim,Não,Sim,20 anos,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 15:16:24,Sim,47,Feminino,Não,Não,Não,Não,Sim,Não,Sim,20 anos,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 15:19:06,Sim,30,Feminino,Não,Não,Não,Sim,Não,Não,Sim,1,Sim,30 dias,Sim,Sim,Não,Sim,Não
+27/09/2018 15:19:16,Sim,24,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,6,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 15:19:21,Sim,21,Feminino,Sim,Não,Não,Sim,Sim,Sim,Sim,8,Não,0,Sim,Sim,Sim,Sim,Não
+27/09/2018 15:19:39,Sim,30,Feminino,Sim,Não,Sim,Sim,Sim,Não,Sim,"uso alguns meses, quando descobri o ceratocone ",Não,Não uso ,Não,Sim,Sim,Sim,Não
+27/09/2018 15:20:35,Não,39,Feminino,Não,Não,Não,Não,Sim,Sim,Sim,15 anos ,Sim,6,Sim,Sim,Não,Sim,Não
+27/09/2018 15:25:28,Sim,26,Feminino,Sim,Não,Não,Sim,Sim,Sim,Sim,3,Sim,3,Sim,Sim,Sim,Sim,Não
+27/09/2018 15:27:53,Sim,30,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,20,Sim,10,Sim,Sim,Sim,Sim,Não
+27/09/2018 15:31:02,Sim,37,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,3,Sim,Mas de 10 anos,Não,Sim,Não,Sim,Sim
+27/09/2018 15:35:57,Sim,33,Feminino,Sim,Sim,Sim,Não,Sim,Não,Sim,Comecei agora,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 15:38:31,Sim,28,Feminino,Sim,Não,Não,Sim,Não,Não,Não,0,Sim,1,Não,Sim,Não,Sim,Não
+27/09/2018 15:39:12,Não,35,Feminino,Não,Sim,Sim,Não,Não,Não,Sim,8,Sim,2,Sim,Sim,Não,Não,Não
+27/09/2018 15:39:16,Sim,32,Feminino,Sim,Não,Sim,Sim,Não,Sim,Sim,22,Não,0,,Sim,Não,Sim,Não
+27/09/2018 15:42:30,Sim,28,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,1,Sim,0,Sim,Sim,Não,Sim,Sim
+27/09/2018 15:46:16,Sim,28,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,16,Sim,Ainda utilizo,Sim,Sim,Sim,Sim,Não
+27/09/2018 15:47:06,Sim,58,Feminino,Não,Não,Não,Não,Não,Não,Sim,Só uso óculos para deitar a noite assistir tv antes de dormir ,Sim,30 anos,Sim,Sim,Não,Sim,Não
+27/09/2018 15:49:31,Sim,23,Feminino,Sim,Sim,Sim,Não,Não,Não,Sim,10,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 15:53:43,Não,26,Masculino,Não,Não,Não,Não,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+27/09/2018 15:54:35,Sim,30,Masculino,Sim,Não,Não,Sim,Sim,Não,Não,0,Sim,15,Sim,Sim,Não,Sim,Não
+27/09/2018 15:55:44,Sim,39,Feminino,Não,Sim,Não,Sim,Sim,Não,Sim,13,Sim,3 meses,Sim,Sim,Sim,Sim,Não
+27/09/2018 15:56:13,Sim,40,Feminino,Sim,Não,Sim,Sim,Não,Não,Sim,14,Não,0,Não,Sim,Não,Sim,Não
+27/09/2018 15:57:30,Sim,47,Feminino,Sim,Não,Não,Não,Sim,Não,Sim,4,Não,0,Não,Sim,Sim,Sim,Não
+27/09/2018 15:57:33,Sim,29,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,5,Sim,5,Sim,Sim,Não,Sim,Sim
+27/09/2018 15:57:48,Sim,38,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,4,Sim,20 anos,Sim,Sim,Não,Sim,Sim
+27/09/2018 16:03:04,Sim,23,Feminino,Sim,Não,Não,Não,Não,Não,Sim,5,Sim,1,Não,Sim,Sim,Sim,Não
+27/09/2018 16:05:14,Sim,52,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,6,Sim,A mais de 30 anos,Sim,Sim,Não,Sim,Sim
+27/09/2018 16:06:58,Sim,37,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,15,Sim,1,Sim,Sim,Não,Sim,Sim
+27/09/2018 16:10:26,Sim,45,Feminino,Não,Sim,Sim,Sim,Sim,Não,Sim,10,Sim,1,Não,Sim,Sim,Sim,Não
+27/09/2018 16:11:46,Não,52,Feminino,Não,Não,Não,Não,Não,Não,Sim,4,Não,0,Não,Não,Não,Não,Não
+27/09/2018 16:12:36,Não,67,Feminino,Não,Não,Não,Não,Não,Sim,Sim,15,Sim,20,Sim,Sim,Sim,Não,Não
+27/09/2018 16:16:11,Não,28,Feminino,Sim,Não,Sim,Não,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+27/09/2018 16:27:30,Sim,56,Feminino,Não,Não,Não,Sim,Sim,Sim,Sim,30,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 16:34:04,Não,62,Masculino,Não,Não,Não,Não,Não,Sim,Sim,50,Não,Nunca,Sim,Sim,Não,Não,Não
+27/09/2018 16:39:23,Sim,35,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,25,Sim,10,Não,Sim,Não,Sim,Não
+27/09/2018 16:42:33,Sim,47,Feminino,Não,Não,Não,Sim,Não,Não,Sim,4,Sim,Utilizo ha mais de 20 anos,Sim,Não,Não,Sim,Não
+27/09/2018 16:43:36,Sim,25,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,4,Sim,0,Não,Sim,Não,Sim,Não
+27/09/2018 16:54:29,Não,28,Masculino,Não,Não,Não,Não,Não,Não,Não,0,Não,0,Não,Não,Sim,Sim,Não
+27/09/2018 17:02:15,Não,43,Masculino,Sim,Não,Não,Sim,Sim,Não,Sim,20,Sim,12,Sim,Sim,Não,Não,Não
+27/09/2018 17:05:05,Não,35,Feminino,Sim,Não,Sim,Sim,Sim,Não,Sim,2,Sim,20 anos ,Sim,Sim,Não,Sim,Sim
+27/09/2018 17:07:01,Sim,26,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,18,Não,0,Sim,Sim,Sim,Sim,Não
+27/09/2018 17:07:12,Não,41,Feminino,Sim,Sim,Sim,Sim,Não,Não,Sim,10,Sim,4,Sim,Sim,Não,Sim,Não
+27/09/2018 17:08:20,Sim,38,Feminino,Sim,Não,Não,Não,Sim,Não,Não,0,Sim,5,Não,Sim,Não,Sim,Não
+27/09/2018 17:11:40,Não,44,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,mais de 20 anos,Sim,mais de 15 anos,Sim,Sim,Não,Sim,Não
+27/09/2018 17:15:26,Não,47,Feminino,Não,Não,Não,Não,Não,Sim,Não,0,Não,0,Sim,Não,Não,Não,Não
+27/09/2018 17:19:42,Sim,34,Feminino,Sim,Não,Não,Não,Não,Sim,Sim,20,Sim,3,Sim,Sim,Sim,Sim,Não
+27/09/2018 17:23:20,Sim,23,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,6,Sim,8,Sim,Sim,Não,Sim,Não
+27/09/2018 17:25:48,Sim,32,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,9,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 17:31:07,Sim,40,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,10,Sim,10,Não,Sim,Não,Sim,Sim
+27/09/2018 17:32:07,Sim,20,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,1,Sim,2,Sim,Sim,Sim,Sim,Não
+27/09/2018 17:35:39,Sim,25,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,11,Sim,2,Não,Não,Sim,Sim,Não
+27/09/2018 17:36:16,Sim,31,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,6,Sim,meses ,Não,Sim,Sim,Sim,Não
+27/09/2018 17:37:54,Sim,22,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,3,Sim,2,Não,Sim,Não,Sim,Não
+27/09/2018 17:38:01,Sim,33,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,18,Sim,0,Sim,Sim,Não,Sim,Sim
+27/09/2018 17:39:12,Sim,23,Feminino,Não,Não,Não,Não,Não,Não,Não,0,Sim,6 meses,Não,Não,Não,Sim,Não
+27/09/2018 17:39:45,Não,25,Masculino,Sim,Não,Não,Não,Não,Sim,Sim,6,Sim,4,Não,Não,Sim,Não,Não
+27/09/2018 17:40:51,Sim,37,Feminino,Sim,Não,Sim,Sim,Sim,Não,Sim,4,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 17:41:31,Sim,18,Feminino,Sim,Não,Não,Não,Sim,Não,Não,0,Sim,0,Não,Sim,Não,Sim,Sim
+27/09/2018 17:41:36,Sim,54,Feminino,Não,Não,Não,Não,Não,Sim,Não,Nao uso,Não,Nao uso,Não,Não,Não,Não,Sim
+27/09/2018 17:44:57,Sim,31,Masculino,Sim,Não,Não,Sim,Sim,Não,Sim,2,Sim,1,Sim,Sim,Não,Sim,Sim
+27/09/2018 17:47:18,Sim,24,Masculino,Não,Não,Não,Sim,Sim,Não,Não,0,Não,0,Não,Sim,Sim,Sim,Sim
+27/09/2018 17:48:00,Sim,32,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,4,Sim,11,Sim,Sim,Não,Sim,Sim
+27/09/2018 17:51:37,Sim,47,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,1,Sim,30,Sim,Sim,Não,Sim,Sim
+27/09/2018 17:53:05,Sim,30,Feminino,Sim,Não,Não,Sim,Sim,Não,Não,0,Não,0,Não,Sim,Não,Sim,Sim
+27/09/2018 17:53:44,Sim,21,Masculino,Sim,Não,Sim,Sim,Sim,Não,Sim,5,Não,0,Sim,Sim,Não,Sim,Sim
+27/09/2018 17:57:33,Sim,35,Feminino,Não,Não,Não,Sim,Sim,Não,Não,0,Sim,5,Sim,Sim,Não,Sim,Não
+27/09/2018 18:02:33,Sim,28,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,21 anos ,Sim,5,Sim,Sim,Não,Sim,Não
+27/09/2018 18:10:43,Sim,23,Masculino,Não,Não,Não,Não,Sim,Não,Não,0,Sim,0,Sim,Sim,Sim,Sim,Não
+27/09/2018 18:16:12,Sim,38,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,31 anos,Sim,3,Sim,Sim,Não,Sim,Sim
+27/09/2018 18:19:01,Sim,26,Feminino,Sim,Não,Sim,Não,Sim,Não,Sim,5,Sim,11,Não,Sim,Não,Sim,Não
+27/09/2018 18:20:46,Sim,54,Feminino,Sim,Não,Não,Não,Sim,Sim,Sim,32 anos,Sim,Só alguns dias ,Não,Sim,Não,Sim,Não
+27/09/2018 18:24:33,Sim,22,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,Acho que uns 12,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 18:24:40,Sim,25,Masculino,Não,Não,Não,Não,Sim,Não,Sim,8,Não,0,Não,Sim,Sim,Sim,Não
+27/09/2018 18:25:07,Não,45,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,39,Sim,3,Não,Sim,Não,Não,Não
+27/09/2018 18:25:44,Sim,34,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,1,Não,0,Não,Sim,Sim,Sim,Não
+27/09/2018 18:27:56,Sim,28,Feminino,Sim,Não,Não,Sim,Sim,Não,Não,0,Não,0,Não,Não,Não,Sim,Não
+27/09/2018 18:31:05,Sim,30,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,7,Sim,2,Sim,Sim,Não,Sim,Não
+27/09/2018 18:38:55,Sim,26,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,10,Sim,6,Sim,Sim,Não,Sim,Sim
+27/09/2018 18:40:41,Sim,26,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,12,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 18:46:05,Sim,31,Feminino,Sim,Não,Não,Sim,Sim,Sim,Sim,18,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 18:47:14,Sim,27,Feminino,Sim,Não,Sim,Sim,Não,Não,Não,1,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 18:47:45,Sim,57,Feminino,Sim,Não,Não,Sim,Sim,Sim,Sim,21,Não,0,Não,Sim,Não,Não,Sim
+27/09/2018 18:53:38,Não,53,Feminino,Sim,Não,Sim,Não,Sim,Não,Sim,20 anos,Sim,4,Não,Sim,Não,Não,Não
+27/09/2018 18:56:29,Sim,25,Masculino,Sim,Não,Não,Não,Sim,Não,Sim,5,Sim,0,Sim,Sim,Sim,Sim,Não
+27/09/2018 19:13:13,Sim,53,Masculino,Não,Não,Não,Não,Não,Não,Sim,30,Sim,20,Sim,Sim,Não,Sim,Não
+27/09/2018 19:14:43,Sim,32,Feminino,Sim,Sim,Não,Não,Não,Não,Sim,3,Sim,14,Sim,Sim,Não,Sim,Não
+27/09/2018 19:17:01,Sim,15,Masculino,Não,Não,Não,Sim,Não,Não,Sim,3,Não,0,Não,Sim,Não,Sim,Não
+27/09/2018 19:18:21,Não,26,Masculino,Sim,Sim,Não,Não,Não,Não,Sim,4,Não,0,Não,Não,Não,Não,Não
+27/09/2018 19:18:30,Sim,33,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,4,Sim,12anos,Não,Sim,Não,Sim,Sim
+27/09/2018 19:18:39,Não,31,Masculino,Sim,Sim,Não,Sim,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+27/09/2018 19:28:16,Não,43,Feminino,Sim,Sim,Não,Sim,Não,Sim,Sim,25,Sim,1,Não,Sim,Não,Sim,Sim
+27/09/2018 19:29:01,Sim,33,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,10,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 19:30:36,Sim,40,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,0,Sim,1,Sim,Sim,Sim,Sim,Não
+27/09/2018 19:31:43,Não,27,Masculino,Sim,Não,Não,Não,Não,Não,Sim,1,Sim,0,Sim,Sim,Não,Sim,Sim
+27/09/2018 19:32:25,Sim,35,Feminino,Sim,Sim,Não,Não,Sim,Não,Sim,20,Sim,3,Sim,Sim,Não,Sim,Não
+27/09/2018 19:37:36,Sim,28,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,4,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 19:39:01,Sim,36,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,10,Sim,3,Sim,Sim,Não,Sim,Não
+27/09/2018 19:40:16,Sim,28,Masculino,Sim,Não,Não,Sim,Sim,Não,Sim,7,Sim,0,Sim,Sim,Sim,Sim,Não
+27/09/2018 19:40:26,Sim,42,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,Mais de 20 anos,Sim,10,Sim,Sim,Não,Sim,Sim
+27/09/2018 19:44:56,Sim,40,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,3,Sim,10,Não,Sim,Sim,Sim,Não
+27/09/2018 19:45:14,Não,29,Masculino,Não,Não,Não,Sim,Não,Não,Sim,15,Sim,15,Sim,Sim,Não,Não,Não
+27/09/2018 19:46:30,Sim,21,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,15,Sim,2,Sim,Sim,Sim,Sim,Não
+27/09/2018 19:46:50,Sim,49,Masculino,Sim,Não,Sim,Sim,Não,Sim,Sim,10,Sim,4,Não,Sim,Não,Sim,Sim
+27/09/2018 19:47:49,Sim,47,Masculino,Sim,Não,Não,Sim,Sim,Sim,Sim,15 anos,Sim,4,Sim,Sim,Sim,Sim,Não
+27/09/2018 19:50:31,Sim,35,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,18,Não,0,Não,Sim,Não,Sim,Não
+27/09/2018 19:51:07,Sim,28,Masculino,Sim,Não,Não,Sim,Não,Sim,Sim,4,Sim,7,Sim,Sim,Não,Sim,Não
+27/09/2018 19:51:15,Sim,30,Feminino,Sim,Sim,Não,Não,Sim,Não,Sim,3,Sim,10,Não,Sim,Não,Sim,Não
+27/09/2018 19:55:10,Sim,30,Feminino,Sim,Sim,Sim,Sim,Não,Sim,Sim,9,Sim,9,Sim,Não,Não,Sim,Não
+27/09/2018 19:55:46,Sim,21,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,1,Não,0,Sim,Não,Sim,Sim,Não
+27/09/2018 19:56:11,Sim,26,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,1,Sim,1,Não,Sim,Não,Sim,Não
+27/09/2018 19:56:27,Sim,46,Feminino,Sim,Não,Sim,Sim,Sim,Não,Sim,32,Sim,1,Não,Sim,Sim,Sim,Não
+27/09/2018 19:58:09,Sim,22,Masculino,Sim,Sim,Não,Sim,Sim,Não,Sim,8,Sim,4,Não,Sim,Não,Sim,Não
+27/09/2018 20:01:07,Sim,22,Feminino,Sim,Não,Não,Não,Não,Não,Não,0,Não,0,Não,Não,Não,Sim,Não
+27/09/2018 20:05:37,Sim,44,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,27,Sim,1,Sim,Sim,Não,Sim,Sim
+27/09/2018 20:10:10,Sim,23,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,4,Sim,5,Sim,Sim,Não,Sim,Não
+27/09/2018 20:12:26,Não,31,Masculino,Não,Sim,Sim,Sim,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Sim
+27/09/2018 20:12:32,Não,23,Masculino,Não,Não,Não,Não,Não,Não,Sim,9,Sim,7,Sim,Sim,Não,Não,Não
+27/09/2018 20:15:44,Sim,32,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,15,Sim,2,Sim,Sim,Não,Sim,Não
+27/09/2018 20:17:26,Sim,33,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,4,Sim,Mais de 10 anos por tempo infinito,Sim,Sim,Não,Sim,Não
+27/09/2018 20:21:06,Sim,23,Feminino,Sim,Não,Sim,Sim,Sim,Não,Sim,3,Sim,2,Sim,Sim,Não,Sim,Sim
+27/09/2018 20:31:55,Não,24,Masculino,Não,Sim,Não,Sim,Não,Não,Sim,2,Não,0,Sim,Sim,Não,Não,Não
+27/09/2018 20:32:42,Sim,28,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,1,Sim,8,Sim,Sim,Não,Sim,Não
+27/09/2018 20:33:19,Sim,26,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,1,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 20:33:45,Não,52,Feminino,Não,Sim,Não,Não,Não,Sim,Sim,2,Não,0,Não,Sim,Não,Não,Não
+27/09/2018 20:35:47,Sim,38,Feminino,Não,Não,Não,Sim,Não,Não,Sim,10,Sim,2,Não,Sim,Não,Sim,Não
+27/09/2018 20:39:25,Sim,27,Masculino,Não,Não,Não,Não,Não,Não,Sim,10,Não,0,Não,Sim,Não,Sim,Não
+27/09/2018 20:44:40,Sim,38,Masculino,Sim,Sim,Não,Sim,Sim,Não,Sim,10,Sim,20,Sim,Sim,Não,Sim,Não
+27/09/2018 20:45:29,Sim,36,Feminino,Não,Sim,Não,Sim,Sim,Não,Sim,4,Não,0,Sim,Não,Não,Sim,Sim
+27/09/2018 20:47:10,Sim,28,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,4,Não,0,Não,Sim,Não,Sim,Não
+27/09/2018 20:49:32,Sim,56,Feminino,Sim,Não,Sim,Sim,Não,Não,Sim,40,Não,0,Sim,Sim,Não,Sim,Sim
+27/09/2018 20:49:42,Sim,29,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,10,Sim,10,Sim,Sim,Não,Sim,Não
+27/09/2018 20:51:31,Sim,25,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,3,Não,0,Não,Sim,Não,Sim,Não
+27/09/2018 20:58:02,Não,35,Masculino,Sim,Não,Não,Sim,Sim,Não,Sim,10,Sim,1,Sim,Sim,Não,Não,Não
+27/09/2018 21:01:39,Sim,57,Feminino,Não,Sim,Não,Sim,Não,Sim,Sim,30,Sim,1 mês ,Sim,Sim,Não,Sim,Sim
+27/09/2018 21:05:20,Sim,41,Feminino,Não,Não,Não,Não,Não,Não,Sim,5,Sim,18,Sim,Sim,Não,Sim,Não
+27/09/2018 21:06:22,Sim,37,Masculino,Sim,Sim,Não,Sim,Não,Sim,Sim,2,Sim,2,Não,Sim,Não,Sim,Não
+27/09/2018 21:09:35,Sim,19,Feminino,Sim,Não,Sim,Sim,Sim,Não,Não,0,Sim,1,Não,Não,Não,Sim,Não
+27/09/2018 21:10:50,Sim,24,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,4,Não,0,Sim,Sim,Sim,Sim,Sim
+27/09/2018 21:14:35,Sim,39,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,6,Não,0,Não,Não,Não,Sim,Não
+27/09/2018 21:16:22,Não,31,Masculino,Não,Não,Não,Não,Sim,Sim,Não,0,Não,0,Não,Não,Não,Não,Sim
+27/09/2018 21:20:19,Sim,50,Feminino,Não,Não,Sim,Não,Sim,Não,Não,0,Sim,20,Sim,Sim,Não,Sim,Sim
+27/09/2018 21:32:45,Não,12,Masculino,Sim,Não,Não,Não,Não,Não,Sim,7,Não,0,Sim,Sim,Não,Sim,Sim
+27/09/2018 21:36:00,Não,22,Masculino,Sim,Não,Não,Sim,Sim,Sim,Sim,1,Não,0,Não,Sim,Não,Não,Não
+27/09/2018 21:39:07,Sim,22,Feminino,Não,Não,Sim,Não,Não,Não,Não,0,Não,0,Não,Sim,Não,Sim,Não
+27/09/2018 21:41:33,Sim,35,Masculino,Sim,Não,Não,Sim,Sim,Sim,Sim,20,Sim,7,Sim,Sim,Não,Sim,Não
+27/09/2018 21:44:11,Não,35,Feminino,Sim,Não,Não,Sim,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+27/09/2018 21:44:15,Não,45,Masculino,Sim,Não,Não,Sim,Não,Sim,Sim,1,Não,0,Não,Não,Não,Sim,Não
+27/09/2018 21:57:43,Sim,34,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,10,Não,Não usei,Sim,Sim,Não,Sim,Não
+27/09/2018 22:02:42,Não,35,Feminino,Sim,Não,Não,Não,Não,Não,Sim,7,Sim,4,Sim,Sim,Sim,Não,Sim
+27/09/2018 22:08:47,Sim,38,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,3,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 22:14:26,Sim,45,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,15,Sim,18,Sim,Sim,Não,Sim,Não
+27/09/2018 22:14:38,Sim,24,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,10,Sim,8,Sim,Sim,Não,Sim,Não
+27/09/2018 22:14:43,Não,33,Masculino,Não,Não,Não,Sim,Não,Não,Não,0,Não,0,Não,Sim,Não,Não,Não
+27/09/2018 22:15:06,Não,31,Masculino,Sim,Sim,Sim,Sim,Sim,Não,Sim,2,Não,0,Sim,Sim,Não,Não,Não
+27/09/2018 22:18:40,Não,28,Masculino,Não,Não,Não,Sim,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+27/09/2018 22:26:12,Sim,20,Masculino,Sim,Não,Sim,Sim,Não,Sim,Sim,10,Não,0,Sim,Não,Não,Sim,Não
+27/09/2018 22:28:34,Sim,35,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,3,Não,0,Sim,Sim,Não,Sim,Sim
+27/09/2018 22:29:32,Não,28,Masculino,Sim,Sim,Não,Não,Não,Não,Sim,1,Não,0,Não,Não,Não,Não,Não
+27/09/2018 22:32:20,Sim,31,Feminino,Não,Não,Não,Sim,Não,Não,Sim,10,Sim,2 meses,Sim,Não,Não,Sim,Não
+27/09/2018 22:39:14,Não,40,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,38,Sim,1,Não,Sim,Não,Sim,Não
+27/09/2018 22:41:13,Sim,24,Feminino,Sim,Sim,Sim,Sim,Não,Não,Sim,1,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 22:42:58,Não,21,Feminino,Sim,Sim,Sim,Não,Não,Não,Sim,1,Não,0,Não,Não,Não,Não,Não
+27/09/2018 22:46:27,Não,37,Masculino,Sim,Não,Não,Não,Não,Sim,Sim,1,Não,0,Sim,Sim,Não,Não,Não
+27/09/2018 22:47:04,Não,22,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,1,Não,0,Não,Não,Não,Não,Não
+27/09/2018 22:47:49,Sim,26,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,17,Sim,2,Não,Sim,Não,Sim,Não
+27/09/2018 22:48:11,Sim,25,Feminino,Sim,Não,Não,Não,Não,Não,Sim,12,Sim,1,Sim,Sim,Sim,Sim,Não
+27/09/2018 22:48:11,Não,28,Masculino,Não,Não,Não,Não,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+27/09/2018 22:48:52,Sim,26,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,3,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 22:49:59,Sim,29,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,9,Sim,0,Não,Sim,Não,Sim,Não
+27/09/2018 22:54:04,Sim,44,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,10,Sim,26,Não,Sim,Sim,Sim,Não
+27/09/2018 22:54:19,Sim,39,Feminino,Sim,Não,Não,Não,Sim,Não,Sim,2,Sim,24,Não,Sim,Não,Sim,Não
+27/09/2018 22:54:46,Não,32,Feminino,Não,Não,Não,Não,Não,Não,Sim,2,Não,0,Não,Não,Não,Não,Não
+27/09/2018 22:55:18,Sim,32,Masculino,Sim,Não,Não,Sim,Sim,Sim,Sim,"Pouco tempo, pois nunca resolveu.",Sim,Mais de 10 anos,Sim,Sim,Não,Sim,Não
+27/09/2018 22:57:31,Não,29,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,3,Não,0,Sim,Não,Não,Não,Não
+27/09/2018 22:57:45,Sim,20,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,13,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 23:00:25,Sim,20,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,14,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 23:02:50,Sim,25,Masculino,Sim,Não,Não,Sim,Sim,Não,Não,0,Sim,3,Sim,Sim,Não,Sim,Não
+27/09/2018 23:02:57,Sim,59,Feminino,Não,Não,Não,Não,Sim,Sim,Sim,10,Sim,1,Sim,Sim,Sim,Não,Não
+27/09/2018 23:03:30,Não,29,Masculino,Não,Não,Não,Não,Não,Não,Sim,0,Não,0,Sim,Não,Não,Não,Não
+27/09/2018 23:07:09,Não,37,Masculino,Sim,Não,Sim,Sim,Sim,Não,Sim,10,Sim,1,Não,Não,Sim,Sim,Não
+27/09/2018 23:07:32,Sim,60,Feminino,Não,Sim,Sim,Sim,Sim,Sim,Sim,2,Sim,44,Não,Sim,Não,Sim,Não
+27/09/2018 23:08:58,Não,23,Masculino,Não,Não,Não,Sim,Não,Não,Sim,9,Não,0,Sim,Sim,Não,Não,Não
+27/09/2018 23:11:00,Não,23,Masculino,Não,Não,Não,Sim,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+27/09/2018 23:15:04,Não,27,Masculino,Não,Não,Sim,Não,Não,Não,Sim,9,Não,0,Sim,Não,Não,Não,Não
+27/09/2018 23:17:33,Sim,69,Feminino,Sim,Sim,Não,Não,Não,Não,Sim,10,Sim,35 anos,Sim,Sim,Sim,Sim,Não
+27/09/2018 23:17:44,Não,26,Masculino,Sim,Não,Não,Sim,Sim,Não,Sim,4,Não,0,Não,Não,Não,Não,Não
+27/09/2018 23:21:00,Sim,39,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,3,Sim,5,Sim,Sim,Não,Sim,Não
+27/09/2018 23:22:04,Sim,21,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,4,Sim,1,Não,Sim,Não,Sim,Não
+27/09/2018 23:23:25,Sim,31,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,10,Sim,0,Sim,Sim,Não,Sim,Sim
+27/09/2018 23:24:00,Não,37,Masculino,Sim,Não,Não,Sim,Não,Sim,Sim,27,Não,0,Sim,Sim,Não,Não,Não
+27/09/2018 23:30:25,Não,39,Masculino,Não,Sim,Não,Sim,Não,Não,Sim,21,Sim,8,Sim,Sim,Não,Não,Não
+27/09/2018 23:31:13,Não,20,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,1,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 23:32:41,Sim,35,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,4,Sim,2,Sim,Sim,Não,Sim,Não
+27/09/2018 23:33:25,Sim,15,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,6 meses,Não,0,Sim,Sim,Não,Sim,Não
+27/09/2018 23:35:02,Sim,44,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,35,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 23:35:56,Sim,28,Feminino,Não,Não,Não,Não,Não,Não,Sim,15,Sim,1,Sim,Sim,Não,Sim,Não
+27/09/2018 23:43:42,Sim,46,Feminino,Não,Não,Não,Não,Sim,Não,Sim,30 anos,Sim,6,Sim,Sim,Não,Sim,Não
+28/09/2018 00:02:13,Sim,28,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,1,Sim,1,Não,Sim,Não,Sim,Sim
+28/09/2018 00:03:08,Sim,36,Feminino,Sim,Não,Sim,Sim,Não,Sim,Sim,20,Sim,1,Sim,Sim,Não,Sim,Não
+28/09/2018 00:05:17,Sim,20,Feminino,Sim,Não,Não,Sim,Sim,Não,Não,0,Sim,4,Não,Não,Não,Sim,Não
+28/09/2018 00:14:54,Sim,25,Feminino,Não,Não,Não,Sim,Não,Não,Sim,8,Sim,0,Sim,Sim,Não,Sim,Não
+28/09/2018 00:16:29,Não,27,Masculino,Sim,Não,Não,Não,Não,Não,Sim,12,Não,0,Sim,Sim,Não,Não,Não
+28/09/2018 00:16:51,Não,35,Masculino,Sim,Não,Não,Não,Sim,Não,Não,Uso lente gelatinosa e a rígida ,Sim,Mais de dez anos ,Sim,Sim,Sim,Sim,Não
+28/09/2018 00:18:37,Sim,36,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,10,Sim,1,Não,Sim,Não,Sim,Não
+28/09/2018 00:20:25,Sim,34,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,4,Não,0,Não,Não,Não,Sim,Não
+28/09/2018 00:24:14,Sim,36,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,Durante uns 6 meses,Sim,6 meses,Não,Não,Sim,Sim,Não
+28/09/2018 00:25:21,Sim,28,Feminino,Não,Não,Não,Sim,Sim,Sim,Sim,4,Sim,1,Sim,Sim,Sim,Sim,Sim
+28/09/2018 00:33:33,Sim,30,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,15,Sim,0,Sim,Sim,Não,Sim,Não
+28/09/2018 00:34:48,Sim,19,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,6,Não,0,Não,Sim,Não,Sim,Não
+28/09/2018 00:35:12,Não,21,Masculino,Sim,Não,Não,Não,Não,Não,Sim,9,Sim,1,Sim,Sim,Não,Não,Não
+28/09/2018 00:38:27,Sim,54,Feminino,Sim,Não,Não,Não,Não,Não,Não,36,Sim,10,Sim,Sim,Não,Sim,Sim
+28/09/2018 00:39:56,Sim,25,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,4,Não,0,Sim,Sim,Não,Sim,Sim
+28/09/2018 00:46:10,Não,36,Masculino,Não,Não,Não,Não,Não,Não,Sim,16,Sim,8,Sim,Não,Sim,Sim,Não
+28/09/2018 00:50:44,Sim,23,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,10,Sim,6,Sim,Sim,Não,Sim,Sim
+28/09/2018 00:51:37,Sim,48,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,10,Sim,30,Sim,Sim,Sim,Sim,Sim
+28/09/2018 00:55:03,Não,40,Feminino,Sim,Não,Não,Não,Não,Não,Sim,31,Sim,25,Sim,Não,Não,Não,Não
+28/09/2018 01:00:57,Não,38,Feminino,Não,Não,Não,Não,Não,Não,Sim,27,Sim,2,Sim,Sim,Não,Sim,Sim
+28/09/2018 01:22:39,Sim,29,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,4,Não,0,Não,Sim,Não,Sim,Não
+28/09/2018 01:24:43,Sim,22,Feminino,Não,Não,Não,Sim,Não,Não,Sim,2,Sim,2,Sim,Sim,Não,Sim,Sim
+28/09/2018 01:28:11,Sim,18,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,3,Não,0,Não,Não,Não,Sim,Não
+28/09/2018 01:28:26,Sim,37,Feminino,Sim,Não,Não,Sim,Não,Sim,Não,0,Sim,8,Sim,Sim,Não,Sim,Não
+28/09/2018 03:49:22,Sim,40,Feminino,Sim,Não,Sim,Sim,Não,Não,Sim,10,Sim,25,Sim,Sim,Sim,Sim,Sim
+28/09/2018 05:33:03,Não,52,Feminino,Não,Não,Não,Não,Não,Não,Sim,15,Não,0,Não,Sim,Não,Não,Não
+28/09/2018 06:41:19,Sim,35,Feminino,Sim,Não,Não,Não,Sim,Não,Sim,5,Sim,6,Sim,Sim,Sim,Sim,Não
+28/09/2018 06:54:25,Sim,29,Feminino,Sim,Não,Não,Sim,Não,Sim,Sim,15,Não,0,Sim,Sim,Não,Sim,Não
+28/09/2018 07:00:53,Sim,47,Feminino,Sim,Não,Sim,Sim,Sim,Sim,Sim,27,Sim,Meses,Sim,Sim,Não,Sim,Não
+28/09/2018 07:02:46,Sim,32,Feminino,Sim,Sim,Não,Sim,Não,Sim,Sim,17,Sim,8,Sim,Sim,Não,Sim,Não
+28/09/2018 07:11:16,Sim,55,Feminino,Sim,Não,Sim,Sim,Não,Sim,Sim,39 anos,Sim,10,Sim,Sim,Não,Sim,Sim
+28/09/2018 07:34:45,Sim,21,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,4,Não,Não usei lentes,Sim,Não,Não,Sim,Não
+28/09/2018 07:36:57,Não,33,Masculino,Sim,Não,Não,Sim,Sim,Não,Sim,25,Sim,4,Sim,Sim,Sim,Sim,Sim
+28/09/2018 07:38:46,Sim,36,Feminino,Sim,Não,Não,Sim,Sim,Sim,Sim,10,Não,0,Sim,Sim,Não,Sim,Sim
+28/09/2018 07:41:48,Sim,24,Feminino,Sim,Não,Não,Sim,Sim,Não,Não,0,Não,0,Não,Sim,Não,Sim,Não
+28/09/2018 07:48:02,Sim,25,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,6,Sim,1,Sim,Sim,Não,Sim,Não
+28/09/2018 07:49:32,Sim,42,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,20 anos,Sim,15 anos,Não,Sim,Não,Sim,Não
+28/09/2018 07:53:39,Sim,34,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,10,Sim,2,Sim,Sim,Sim,Sim,Sim
+28/09/2018 07:56:04,Sim,26,Feminino,Sim,Não,Sim,Sim,Não,Não,Sim,8,Sim,0,Sim,Sim,Não,Sim,Sim
+28/09/2018 07:57:08,Sim,22,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,1,Não,0,Não,Sim,Não,Sim,Não
+28/09/2018 07:59:44,Sim,32,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,Diariamente após retirar lentes de contato ,Sim,10,Não,Não,Não,Sim,Não
+28/09/2018 08:01:54,Sim,22,Masculino,Sim,Não,Não,Sim,Não,Não,Não,0,Sim,1,Sim,Sim,Não,Sim,Não
+28/09/2018 08:02:36,Sim,35,Feminino,Sim,Sim,Não,Não,Sim,Não,Sim,30,Sim,0,Sim,Sim,Não,Sim,Não
+28/09/2018 08:02:51,Sim,47,Feminino,Sim,Não,Não,Não,Não,Não,Sim,1,Não,0,Não,Não,Não,Sim,Sim
+28/09/2018 08:02:52,Não,30,Masculino,Sim,Não,Não,Não,Sim,Não,Sim,5,Sim,1,Sim,Sim,Sim,Sim,Não
+28/09/2018 08:03:05,Sim,35,Feminino,Sim,Não,Não,Sim,Sim,Sim,Sim,3,Sim,2,Não,Sim,Não,Sim,Não
+28/09/2018 08:03:10,Sim,30,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,7,Sim,1,Não,Não,Não,Sim,Não
+28/09/2018 08:30:05,Não,55,Feminino,Não,Sim,Não,Sim,Não,Não,Sim,45,Sim,1,Sim,Sim,Não,Não,Não
+28/09/2018 08:30:24,Sim,29,Feminino,Sim,Não,Sim,Sim,Não,Não,Sim,5,Sim,10,Sim,Sim,Sim,Sim,Sim
+28/09/2018 08:40:40,Sim,28,Masculino,Sim,Não,Sim,Sim,Sim,Sim,Não,0,Sim,1,Não,Sim,Não,Sim,Não
+28/09/2018 08:44:51,Sim,59,Feminino,Não,Não,Não,Sim,Não,Não,Sim,10,Não,0,Não,Não,Não,Não,Sim
+28/09/2018 08:45:18,Sim,25,Masculino,Não,Não,Não,Sim,Não,Não,Sim,6,Não,0,Não,Sim,Não,Sim,Não
+28/09/2018 08:52:19,Sim,18,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,1,Sim,0,Não,Sim,Sim,Sim,Não
+28/09/2018 08:55:39,Sim,28,Feminino,Sim,Sim,Não,Não,Não,Sim,Sim,2,Sim,4,Sim,Sim,Não,Sim,Não
+28/09/2018 09:00:30,Sim,24,Feminino,Não,Não,Não,Sim,Não,Não,Sim,8,Sim,5,Não,Sim,Não,Sim,Sim
+28/09/2018 09:01:29,Sim,24,Masculino,Sim,Não,Sim,Sim,Sim,Não,Sim,6,Sim,1,Não,Sim,Não,Sim,Não
+28/09/2018 09:02:53,Sim,37,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,25 anos ,Sim,5,Sim,Sim,Sim,Sim,Não
+28/09/2018 09:07:11,Sim,14,Masculino,Sim,Não,Não,Sim,Sim,Não,Sim,1,Sim,2,Sim,Sim,Sim,Sim,Não
+28/09/2018 09:08:37,Sim,16,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,3,Sim,4 meses,Sim,Sim,Não,Sim,Não
+28/09/2018 09:08:45,Sim,32,Feminino,Sim,Não,Não,Sim,Sim,Sim,Sim,20,Não,0,Sim,Sim,Não,Sim,Não
+28/09/2018 09:20:49,Não,35,Masculino,Não,Não,Não,Não,Não,Não,Sim,Tenho miupia desde de pequeno.,Sim,20 anos,Sim,Não,Não,Não,Não
+28/09/2018 09:23:56,Sim,37,Feminino,Sim,Não,Não,Não,Sim,Não,Não,0,Sim,1,Sim,Sim,Não,Sim,Sim
+28/09/2018 09:26:38,Sim,47,Masculino,Não,Não,Não,Não,Sim,Não,Sim,2,Sim,32,Sim,Sim,Não,Sim,Não
+28/09/2018 09:45:42,Não,22,Feminino,Sim,Não,Não,Sim,Não,Não,Não,0,Não,0,Não,Não,Não,Sim,Sim
+28/09/2018 09:59:17,Sim,22,Feminino,Não,Não,Não,Sim,Não,Não,Sim,7,Sim,1,Sim,Sim,Não,Sim,Não
+28/09/2018 10:00:13,Não,34,Masculino,Sim,Não,Não,Não,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+28/09/2018 10:06:42,Sim,23,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,Contínuo usando ,Sim,Estou usando ,Sim,Sim,Não,Sim,Não
+28/09/2018 10:14:43,Sim,25,Feminino,Não,Não,Não,Sim,Não,Não,Sim,3,Sim,1,Sim,Sim,Sim,Sim,Não
+28/09/2018 10:17:52,Sim,22,Feminino,Sim,Não,Sim,Não,Sim,Não,Sim,1,Sim,4,Sim,Sim,Não,Sim,Sim
+28/09/2018 10:17:55,Sim,30,Masculino,Sim,Sim,Sim,Sim,Sim,Não,Sim,19,Sim,10,Sim,Sim,Não,Sim,Sim
+28/09/2018 10:19:43,Sim,24,Masculino,Sim,Não,Não,Sim,Sim,Não,Sim,3,Sim,5,Sim,Sim,Sim,Sim,Não
+28/09/2018 10:24:14,Sim,28,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,3,Não,0,Sim,Sim,Não,Sim,Não
+28/09/2018 10:29:34,Sim,40,Feminino,Não,Não,Não,Sim,Não,Sim,Sim,25,Sim,15,Não,Sim,Não,Sim,Não
+28/09/2018 10:30:39,Sim,20,Feminino,Sim,Sim,Não,Não,Sim,Não,Sim,18,Não,0,Sim,Sim,Não,Sim,Sim
+28/09/2018 10:46:58,Sim,32,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,2,Sim,12,Sim,Sim,Não,Sim,Não
+28/09/2018 10:54:00,Não,24,Masculino,Não,Não,Não,Sim,Sim,Sim,Sim,3,Não,0,Não,Sim,Não,Não,Não
+28/09/2018 11:02:01,Sim,42,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,22,Sim,0,Sim,Sim,Não,Sim,Sim
+28/09/2018 11:04:08,Sim,22,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,8,Sim,1,Sim,Sim,Não,Sim,Não
+28/09/2018 11:05:39,Sim,61,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,15 anos ,Sim,Uso ate o momento atual,Sim,Sim,Não,Sim,Sim
+28/09/2018 11:07:37,Sim,22,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,8,Sim,Lente rigida(ambos os olhos) em fase de adaptação ( sem sucesso ) foi uns 3 meses mais ou menos. Lente escleral em OD fase de adaptação ( sem sucesso) 2 meses,Sim,Sim,Sim,Sim,Não
+28/09/2018 11:08:57,Sim,61,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,16,Sim,41,Sim,Sim,Não,Sim,Sim
+28/09/2018 11:10:07,Sim,29,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,9,Não,0,Sim,Sim,Não,Sim,Não
+28/09/2018 11:12:28,Sim,49,Feminino,Não,Não,Não,Sim,Não,Não,Sim,5,Sim,16,Sim,Sim,Não,Sim,Sim
+28/09/2018 11:12:52,Sim,30,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Não,0,Não,0,Não,Não,Não,Sim,Sim
+28/09/2018 11:16:23,Sim,30,Masculino,Sim,Não,Não,Sim,Sim,Não,Não,Não,Não,9,Sim,Sim,Não,Sim,Não
+28/09/2018 11:18:22,Sim,20,Masculino,Sim,Não,Sim,Sim,Sim,Sim,Sim,1,Não,0,Não,Não,Não,Sim,Não
+28/09/2018 11:20:05,Sim,25,Feminino,Sim,Não,Não,Não,Não,Não,Sim,14,Sim,10,Não,Não,Sim,Sim,Sim
+28/09/2018 11:21:49,Não,61,Feminino,Não,Não,Não,Não,Não,Sim,Sim,35,Sim,0,Não,Sim,Não,Não,Sim
+28/09/2018 11:22:08,Sim,28,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,3,Sim,0,Sim,Sim,Não,Sim,Sim
+28/09/2018 11:29:01,Sim,29,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,11,Não,0,Sim,Sim,Não,Sim,Não
+28/09/2018 11:36:46,Sim,28,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,Eu uso,Sim,Usei menos de um mes ,Sim,Sim,Sim,Sim,Não
+28/09/2018 11:38:27,Sim,23,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,1,Sim,Não aguentei usar lentes Rígidas ,Sim,Sim,Não,Sim,Não
+28/09/2018 11:40:12,Sim,24,Masculino,Sim,Não,Sim,Sim,Sim,Não,Sim,6,Sim,1,Sim,Sim,Não,Sim,Não
+28/09/2018 11:42:35,Sim,29,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,1,Sim,1,Sim,Sim,Não,Sim,Não
+28/09/2018 11:47:55,Sim,30,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,22,Não,0,Sim,Sim,Não,Sim,Sim
+28/09/2018 11:53:51,Sim,39,Feminino,Sim,Não,Não,Sim,Sim,Sim,Sim,3,Sim,10,Sim,Sim,Não,Sim,Não
+28/09/2018 11:55:56,Sim,24,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,2,Sim,3,Sim,Sim,Sim,Sim,Não
+28/09/2018 11:56:10,Sim,25,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,2,Sim,0,Não,Não,Sim,Sim,Sim
+28/09/2018 11:57:12,Sim,25,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,6,Não,0,Não,Sim,Não,Sim,Não
+28/09/2018 12:01:56,Não,59,Masculino,Não,Não,Não,Não,Não,Não,Sim,Mais de 20 anos,Sim,1,Não,Sim,Não,Não,Não
+28/09/2018 12:02:00,Não,57,Feminino,Não,Não,Não,Não,Sim,Não,Sim,15,Não,0,Sim,Sim,Não,Não,Não
+28/09/2018 12:03:57,Sim,37,Feminino,Sim,Não,Não,Sim,Não,Não,Não,0,Não,0,Sim,Sim,Não,Sim,Não
+28/09/2018 12:05:22,Sim,24,Masculino,Sim,Não,Não,Sim,Sim,Sim,Sim,4 meses,Sim,13,Sim,Sim,Não,Sim,Sim
+28/09/2018 12:06:53,Sim,38,Masculino,Sim,Não,Não,Sim,Não,Sim,Sim,12,Sim,4,Sim,Sim,Não,Sim,Sim
+28/09/2018 12:09:48,Não,47,Feminino,Sim,Não,Sim,Sim,Sim,Não,Sim,3,Não,0,Sim,Sim,Não,Não,Não
+28/09/2018 12:12:20,Não,59,Feminino,Não,Não,Não,Não,Sim,Sim,Sim,17 anos ,Não,0,Não,Sim,Não,Não,Não
+28/09/2018 12:17:07,Sim,30,Feminino,Não,Não,Não,Não,Não,Não,Sim,1,Sim,Meses,Não,Sim,Não,Sim,Não
+28/09/2018 12:17:34,Sim,24,Feminino,Sim,Não,Não,Sim,Sim,Não,Não,0,Sim,1,Não,Sim,Não,Sim,Não
+28/09/2018 12:18:55,Não,73,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,30,Não,0,Sim,Sim,Não,Não,Não
+28/09/2018 12:33:44,Não,27,Feminino,Sim,Não,Sim,Sim,Sim,Sim,Não,0,Não,0,Não,Não,Não,Não,Sim
+28/09/2018 12:39:00,Sim,31,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,10,Não,0,Sim,Sim,Não,Sim,Sim
+28/09/2018 13:03:19,Sim,26,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,15,Sim,0,Sim,Sim,Não,Sim,Sim
+28/09/2018 13:20:19,Sim,34,Feminino,Sim,Não,Não,Sim,Não,Sim,Não,0,Sim,3,Sim,Sim,Sim,Sim,Não
+28/09/2018 13:24:11,Sim,27,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,2,Sim,1,Não,Não,Não,Sim,Sim
+28/09/2018 13:50:12,Sim,16,Masculino,Sim,Sim,Não,Sim,Sim,Não,Sim,3,Sim,1,Sim,Sim,Não,Sim,Não
+28/09/2018 14:16:03,Sim,31,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,8,Sim,2,Não,Sim,Não,Sim,Não
+28/09/2018 14:21:05,Sim,33,Masculino,Sim,Sim,Não,Sim,Não,Não,Sim,13,Não,0,Sim,Não,Não,Não,Sim
+28/09/2018 14:24:02,Não,59,Feminino,Não,Não,Não,Não,Não,Sim,Sim,5,Não,0,Não,Sim,Não,Não,Não
+28/09/2018 14:26:39,Não,45,Feminino,Sim,Não,Não,Não,Não,Não,Sim,uns 30 anos,Sim,3,Sim,Sim,Não,Não,Não
+28/09/2018 14:55:08,Sim,25,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,13,Sim,8,Sim,Sim,Não,Sim,Não
+28/09/2018 15:02:48,Sim,28,Masculino,Não,Não,Não,Sim,Não,Não,Sim,3,Sim,a 3 anos,Sim,Sim,Não,Sim,Não
+28/09/2018 15:22:42,Sim,31,Feminino,Sim,Não,Sim,Sim,Não,Não,Sim,10,Sim,7,Sim,Sim,Não,Sim,Não
+28/09/2018 15:26:40,Não,51,Feminino,Sim,Não,Sim,Sim,Não,Não,Sim,30 anos,Não,0,Não,Sim,Não,Não,Não
+28/09/2018 15:33:52,Sim,30,Feminino,Sim,Não,Não,Sim,Sim,Sim,Sim,4,Sim,5,Sim,Sim,Não,Sim,Não
+28/09/2018 15:34:34,Sim,33,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,20,Sim,1,Não,Sim,Não,Sim,Não
+28/09/2018 15:36:22,Sim,33,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,20,Sim,1,Não,Sim,Não,Sim,Não
+28/09/2018 16:13:01,Não,50,Feminino,Não,Não,Não,Não,Não,Não,Sim,5,Sim,1,Não,Sim,Não,Não,Não
+28/09/2018 17:02:28,Não,47,Feminino,Não,Não,Não,Não,Não,Não,Sim,2,Não,0,Não,Sim,Não,Não,Não
+28/09/2018 17:03:54,Sim,35,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,Desde os 19,Não,0,Sim,Sim,Não,Sim,Não
+28/09/2018 17:11:28,Sim,30,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,13,Sim,13,Sim,Sim,Não,Sim,Não
+28/09/2018 17:35:36,Sim,23,Feminino,Sim,Não,Sim,Não,Sim,Não,Não,1,Não,0,Sim,Sim,Não,Sim,Não
+28/09/2018 17:37:42,Sim,17,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,1,Sim,2,Sim,Sim,Não,Sim,Não
+28/09/2018 17:38:03,Sim,17,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,1,Sim,2,Sim,Sim,Não,Sim,Não
+28/09/2018 18:54:56,Sim,21,Masculino,Não,Não,Não,Sim,Não,Sim,Não,0,Sim,0,Não,Não,Não,Sim,Não
+28/09/2018 19:14:12,Não,50,Feminino,Não,Não,Sim,Não,Não,Sim,Sim,40,Sim,2,Sim,Sim,Sim,Não,Sim
+28/09/2018 19:16:15,Sim,58,Feminino,Sim,Não,Não,Não,Não,Sim,Sim,25,Não,0,Não,Sim,Não,Não,Não
+28/09/2018 19:23:47,Não,60,Masculino,Sim,Não,Sim,Não,Não,Sim,Sim,22,Não,0,Não,Sim,Não,Não,Não
+28/09/2018 20:49:14,Sim,50,Feminino,Sim,Sim,Sim,Sim,Não,Não,Sim,8,Sim,5,Sim,Sim,Sim,Sim,Sim
+28/09/2018 20:51:36,Sim,43,Feminino,Não,Não,Não,Não,Não,Não,Não,0,Sim,"Alguns meses,  a lente caía do olho",Sim,Sim,Não,Sim,Não
+28/09/2018 21:20:09,Sim,36,Feminino,Sim,Sim,Não,Sim,Não,Sim,Não,0,Sim,1,Não,Sim,Não,Sim,Não
+28/09/2018 22:45:28,Sim,23,Masculino,Sim,Não,Não,Não,Sim,Não,Sim,6,Não,0,Sim,Sim,Não,Sim,Não
+28/09/2018 23:17:40,Não,46,Feminino,Sim,Não,Não,Não,Não,Não,Sim,7,Não,0,Não,Sim,Não,Não,Não
+29/09/2018 02:01:48,Sim,40,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,10,Sim,3,Sim,Sim,Não,Sim,Não
+29/09/2018 05:23:04,Não,43,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,13 anos,Sim,1,Não,Não,Não,Não,Não
+29/09/2018 12:21:17,Sim,34,Feminino,Sim,Sim,Não,Sim,Sim,Sim,Sim,0,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 12:31:13,Sim,31,Feminino,Sim,Sim,Sim,Não,Não,Não,Sim,2,Sim,1,Sim,Sim,Não,Sim,Não
+29/09/2018 12:31:18,Sim,30,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,6,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 12:35:01,Sim,42,Masculino,Não,Não,Não,Sim,Não,Não,Sim,7,Sim,22,Sim,Sim,Não,Sim,Não
+29/09/2018 12:37:17,Sim,47,Feminino,Sim,Não,Não,Não,Sim,Não,Sim,3,Não,0,Não,Sim,Sim,Sim,Sim
+29/09/2018 12:40:20,Sim,28,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,3,Sim,2,Sim,Sim,Não,Sim,Sim
+29/09/2018 12:43:09,Sim,26,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,1,Não,0,Não,Sim,Sim,Sim,Não
+29/09/2018 12:44:43,Sim,36,Masculino,Sim,Não,Sim,Não,Não,Não,Sim,15,Não,1,Não,Sim,Não,Sim,Não
+29/09/2018 12:50:27,Sim,37,Masculino,Sim,Não,Não,Sim,Sim,Não,Sim,3,Sim,1,Não,Não,Não,Sim,Não
+29/09/2018 12:50:40,Sim,34,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,3,Sim,0,Não,Sim,Não,Sim,Sim
+29/09/2018 12:52:35,Sim,25,Feminino,Sim,Não,Não,Sim,Não,Sim,Sim,8,Não,0,Sim,Sim,Não,Sim,Sim
+29/09/2018 12:53:09,Sim,41,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,8,Não,0,Não,Sim,Não,Sim,Não
+29/09/2018 12:56:54,Sim,37,Feminino,Sim,Sim,Sim,Sim,Não,Não,Sim,25 anos ,Sim,Há  mais de 20 anos ,Não,Sim,Não,Sim,Não
+29/09/2018 12:58:48,Não,26,Feminino,Não,Sim,Não,Sim,Não,Não,Sim,6,Sim,1,Sim,Não,Não,Não,Não
+29/09/2018 13:02:38,Sim,20,Feminino,Sim,Não,Não,Sim,Sim,Sim,Sim,6,Não,0,Sim,Não,Não,Sim,Não
+29/09/2018 13:03:43,Sim,39,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,5,Sim,A uns 19 anos já ,Não,Sim,Não,Sim,Sim
+29/09/2018 13:13:16,Sim,31,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,20 anos,Sim,15 anos,Sim,Sim,Não,Sim,Sim
+29/09/2018 13:15:33,Sim,30,Masculino,Sim,Não,Não,Não,Sim,Não,Sim,20,Sim,2,Sim,Sim,Sim,Sim,Não
+29/09/2018 13:15:55,Sim,24,Feminino,Não,Não,Não,Não,Não,Não,Não,0,Sim,6,Não,Não,Não,Sim,Não
+29/09/2018 13:21:53,Sim,19,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,2,Não,0,Não,Não,Não,Sim,Não
+29/09/2018 13:22:44,Sim,29,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,9,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 13:24:07,Não,33,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,5,Sim,9,Sim,Sim,Não,Sim,Não
+29/09/2018 13:30:18,Sim,42,Feminino,Sim,Não,Sim,Não,Não,Não,Sim,20 anos,Sim,10,Sim,Sim,Sim,Sim,Não
+29/09/2018 13:42:10,Sim,33,Feminino,Não,Não,Não,Sim,Não,Não,Sim,1,Sim,0,Sim,Sim,Não,Sim,Não
+29/09/2018 13:45:58,Não,39,Feminino,Sim,Não,Não,Sim,Não,Sim,Sim,3,Não,0,Não,Sim,Não,Não,Não
+29/09/2018 14:02:17,Sim,41,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,Mais de 20 anos ,Sim,1,Sim,Sim,Sim,Sim,Não
+29/09/2018 14:02:26,Não,46,Feminino,Sim,Não,Não,Não,Não,Não,Sim,1,Não,0,Não,Não,Não,Não,Não
+29/09/2018 14:06:26,Não,28,Feminino,Sim,Não,Não,Sim,Não,Sim,Não,0,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 14:09:35,Sim,33,Feminino,Sim,Não,Não,Sim,Sim,Não,Não,0,Sim,17,Sim,Sim,Não,Sim,Não
+29/09/2018 14:11:39,Sim,32,Feminino,Sim,Não,Não,Sim,Não,Não,Não,0,Sim,3,Sim,Sim,Sim,Sim,Sim
+29/09/2018 14:12:05,Sim,21,Feminino,Não,Não,Não,Sim,Sim,Não,Não,0,Sim,2,Sim,Sim,Sim,Sim,Não
+29/09/2018 14:14:01,Não,47,Feminino,Sim,Não,Não,Sim,Sim,Sim,Sim,30,Não,0,Não,Sim,Não,Não,Sim
+29/09/2018 14:15:24,Sim,33,Feminino,Não,Não,Sim,Sim,Não,Sim,Sim,0,Sim,13,Sim,Sim,Não,Sim,Não
+29/09/2018 14:16:44,Sim,32,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,1,Sim,17 anos,Não,Sim,Não,Sim,Sim
+29/09/2018 14:20:48,Sim,49,Feminino,Não,Sim,Não,Sim,Sim,Não,Sim,36 anos,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 14:29:21,Sim,35,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,2,Não,0,Não,Sim,Não,Sim,Não
+29/09/2018 14:32:09,Sim,23,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,2,Não,0,Não,Sim,Não,Sim,Não
+29/09/2018 14:36:33,Sim,26,Masculino,Sim,Não,Não,Sim,Sim,Sim,Sim,7,Sim,1,Sim,Sim,Não,Sim,Sim
+29/09/2018 14:38:41,Sim,29,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,1,Sim,3,Sim,Sim,Sim,Sim,Não
+29/09/2018 14:52:23,Sim,31,Feminino,Não,Não,Não,Sim,Não,Sim,Sim,10,Sim,10,Sim,Sim,Não,Sim,Sim
+29/09/2018 14:59:48,Sim,28,Feminino,Não,Não,Não,Sim,Não,Não,Não,23 anos,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 15:00:01,Sim,23,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,6,Sim,5,Sim,Sim,Não,Sim,Não
+29/09/2018 15:01:06,Sim,53,Feminino,Sim,Não,Não,Não,Não,Não,Sim,49,Sim,1,Não,Sim,Não,Sim,Sim
+29/09/2018 15:05:23,Sim,28,Feminino,Sim,Não,Não,Sim,Sim,Não,Não,0,Sim,14,Sim,Não,Não,Sim,Não
+29/09/2018 15:13:54,Sim,38,Feminino,Sim,Não,Não,Não,Sim,Não,Sim,5,Sim,23 anos,Sim,Sim,Sim,Sim,Não
+29/09/2018 15:38:24,Sim,27,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,2,Sim,2,Sim,Sim,Não,Sim,Sim
+29/09/2018 15:53:28,Sim,33,Feminino,Sim,Sim,Sim,Não,Sim,Não,Sim,10,Não,0,Não,Sim,Não,Sim,Não
+29/09/2018 16:14:46,Sim,26,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,18,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 16:23:12,Não,30,Feminino,Não,Não,Não,Sim,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+29/09/2018 16:25:18,Sim,43,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,7,Não,Nao uso,Não,Não,Não,Sim,Não
+29/09/2018 16:30:51,Sim,22,Feminino,Não,Não,Sim,Sim,Não,Não,Sim,2,Não,0,Não,Sim,Não,Sim,Não
+29/09/2018 16:31:34,Sim,33,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,24,Sim,1,Sim,Sim,Não,Sim,Não
+29/09/2018 16:32:05,Sim,36,Feminino,Sim,Sim,Não,Não,Sim,Não,Sim,6,Não,0,Sim,Sim,Não,Sim,Sim
+29/09/2018 16:34:31,Não,21,Masculino,Não,Não,Não,Não,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Sim
+29/09/2018 16:34:53,Sim,25,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,4,Sim,3,Sim,Sim,Não,Sim,Não
+29/09/2018 16:35:24,Sim,30,Feminino,Sim,Não,Sim,Sim,Sim,Não,Sim,0,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 16:35:32,Não,47,Masculino,Não,Não,Não,Não,Não,Não,Sim,1,Não,0,Não,Não,Não,Não,Não
+29/09/2018 16:37:07,Sim,28,Masculino,Sim,Não,Não,Sim,Sim,Sim,Sim,12,Sim,7,Sim,Sim,Não,Sim,Não
+29/09/2018 17:05:36,Sim,36,Feminino,Sim,Sim,Sim,Não,Sim,Não,Sim,1,Não,0,Sim,Sim,Não,Sim,Sim
+29/09/2018 17:15:07,Sim,30,Feminino,Sim,Não,Não,Não,Não,Não,Sim,4,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 17:18:16,Sim,26,Feminino,Sim,Não,Sim,Sim,Sim,Não,Sim,4,Sim,0,Sim,Não,Não,Sim,Não
+29/09/2018 17:39:55,Sim,24,Feminino,Sim,Não,Não,Não,Não,Não,Sim,1,Sim,5,Sim,Sim,Não,Sim,Não
+29/09/2018 17:57:33,Não,41,Masculino,Não,Não,Não,Sim,Não,Não,Sim,33,Sim,10,Sim,Sim,Não,Sim,Não
+29/09/2018 18:12:31,Sim,41,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,8,Sim,0,Sim,Sim,Não,Sim,Não
+29/09/2018 18:20:57,Não,64,Feminino,Não,Não,Não,Não,Não,Sim,Sim,+- 20 anos,Sim,0,Não,Sim,Não,Não,Não
+29/09/2018 18:21:37,Sim,40,Feminino,Sim,Não,Não,Não,Não,Não,Sim,10,Sim,1,Não,Sim,Não,Sim,Não
+29/09/2018 18:22:00,Não,61,Masculino,Não,Não,Não,Não,Não,Não,Sim,5,Não,0,Não,Não,Não,Não,Não
+29/09/2018 18:24:42,Não,32,Masculino,Não,Sim,Não,Não,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Sim
+29/09/2018 18:25:10,Sim,37,Feminino,Não,Não,Não,Não,Sim,Não,Não,0,Sim,1,Sim,Sim,Não,Sim,Não
+29/09/2018 18:29:42,Não,65,Masculino,Não,Não,Não,Sim,Sim,Sim,Sim,12,Não,0,Não,Não,Sim,Não,Não
+29/09/2018 18:32:19,Não,55,Feminino,Sim,Não,Não,Não,Não,Sim,Sim,7,Não,0,Sim,Sim,Não,Não,Sim
+29/09/2018 18:33:42,Não,38,Feminino,Não,Não,Não,Não,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+29/09/2018 18:34:59,Não,35,Masculino,Não,Não,Não,Não,Não,Sim,Sim,3,Não,0,Não,Não,Não,Não,Não
+29/09/2018 18:37:50,Não,32,Feminino,Sim,Não,Não,Sim,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+29/09/2018 18:39:52,Não,36,Feminino,Não,Não,Não,Não,Não,Sim,Não,0,Não,0,Não,Não,Não,Não,Não
+29/09/2018 18:40:49,Não,74,Feminino,Não,Não,Não,Não,Sim,Sim,Sim,10,Sim,6,Não,Sim,Sim,Não,Não
+29/09/2018 18:46:10,Não,33,Masculino,Não,Não,Não,Não,Não,Não,Não,0,Não,0,Sim,Não,Não,Não,Não
+29/09/2018 18:48:24,Sim,38,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,10,Sim,1,Não,Sim,Sim,Sim,Sim
+29/09/2018 18:50:23,Não,65,Masculino,Não,Sim,Não,Sim,Não,Sim,Sim,28,Não,0,Sim,Sim,Não,Não,Não
+29/09/2018 18:54:32,Não,44,Feminino,Não,Não,Não,Não,Não,Sim,Sim,2,Não,0,Não,Sim,Não,Não,Não
+29/09/2018 18:56:27,Não,12,Feminino,Sim,Não,Não,Sim,Sim,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+29/09/2018 18:56:50,Sim,55,Feminino,Não,Não,Não,Não,Não,Não,Sim,20,Sim,17,Sim,Sim,Não,Sim,Sim
+29/09/2018 18:57:19,Não,47,Masculino,Não,Não,Não,Sim,Não,Não,Sim,30,Sim,5,Sim,Sim,Não,Não,Não
+29/09/2018 19:10:11,Não,58,Feminino,Não,Não,Não,Não,Sim,Não,Sim,53,Não,0,Não,Sim,Não,Não,Sim
+29/09/2018 19:10:12,Sim,26,Feminino,Sim,Não,Sim,Sim,Sim,Sim,Sim,5,Sim,3,Sim,Sim,Sim,Sim,Não
+29/09/2018 19:10:34,Não,35,Masculino,Sim,Sim,Sim,Não,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+29/09/2018 19:12:06,Não,56,Feminino,Não,Não,Não,Não,Sim,Não,Sim,Pra perto/pra longe/pra sol,Não,Nunca,Não,Sim,Não,Não,Não
+29/09/2018 19:16:13,Não,32,Masculino,Sim,Não,Não,Não,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Sim
+29/09/2018 19:22:08,Não,50,Feminino,Sim,Sim,Sim,Não,Não,Não,Sim,30,Sim,20,Sim,Sim,Não,Não,Não
+29/09/2018 19:37:49,Sim,31,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,5,Sim,4,Não,Sim,Não,Sim,Sim
+29/09/2018 19:38:35,Sim,25,Masculino,Sim,Não,Não,Sim,Sim,Sim,Sim,5,Sim,10,Sim,Sim,Sim,Sim,Não
+29/09/2018 19:48:03,Não,75,Feminino,Sim,Não,Não,Não,Sim,Sim,Sim,5,Não,0,Não,Sim,Sim,Não,Não
+29/09/2018 19:49:56,Não,48,Masculino,Não,Não,Não,Sim,Não,Não,Sim,3,Não,0,Não,Não,Não,Não,Não
+29/09/2018 19:50:16,Sim,28,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,10,Sim,3,Sim,Sim,Não,Sim,Não
+29/09/2018 19:50:22,Não,44,Feminino,Não,Sim,Sim,Sim,Não,Não,Sim,5,Sim,17,Sim,Sim,Não,Sim,Sim
+29/09/2018 19:50:57,Não,74,Feminino,Sim,Não,Não,Não,Não,Não,Sim,4,Não,0,Não,Sim,Sim,Não,Sim
+29/09/2018 19:51:53,Não,46,Masculino,Sim,Não,Sim,Não,Não,Não,Sim,20,Não,0,Sim,Não,Não,Não,Não
+29/09/2018 19:53:33,Sim,30,Feminino,Não,Não,Sim,Sim,Sim,Não,Sim,20,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 19:53:34,Não,65,Feminino,Não,Sim,Não,Não,Não,Não,Sim,35,Não,0,Não,Não,Não,Não,Não
+29/09/2018 19:56:41,Não,58,Feminino,Sim,Não,Não,Não,Não,Não,Sim,40,Não,3,Sim,Sim,Não,Não,Não
+29/09/2018 20:00:01,Não,57,Feminino,Não,Não,Não,Não,Não,Não,Sim,10,Não,0,Não,Sim,Não,Não,Não
+29/09/2018 20:00:27,Não,25,Feminino,Sim,Não,Sim,Não,Não,Não,Sim,5,Não,0,Não,Sim,Não,Não,Não
+29/09/2018 20:02:03,Não,63,Masculino,Não,Não,Não,Não,Não,Não,Sim,20,Não,0,Não,Não,Não,Não,Não
+29/09/2018 20:11:13,Não,57,Feminino,Não,Não,Não,Não,Não,Sim,Sim,20 anos,Sim,0,Não,Sim,Não,Não,Não
+29/09/2018 20:12:48,Sim,42,Masculino,Sim,Não,Não,Sim,Não,Não,Sim,10,Não,0,Não,Sim,Não,Sim,Não
+29/09/2018 20:13:15,Não,39,Masculino,Não,Não,Sim,Não,Não,Não,Sim,15,Não,0,Sim,Não,Não,Não,Não
+29/09/2018 20:15:02,Sim,33,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,3,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 20:18:07,Não,32,Masculino,Não,Não,Não,Não,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+29/09/2018 20:18:58,Não,68,Feminino,Sim,Não,Não,Sim,Sim,Sim,Sim,18,Sim,3,Não,Não,Não,Não,Não
+29/09/2018 20:20:00,Não,26,Feminino,Sim,Não,Não,Sim,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+29/09/2018 20:21:40,Não,26,Feminino,Sim,Não,Sim,Não,Não,Não,Não,0,Sim,10,Sim,Sim,Não,Sim,Não
+29/09/2018 20:22:52,Não,36,Feminino,Sim,Não,Não,Não,Não,Não,Sim,9,Não,0,Não,Sim,Não,Não,Sim
+29/09/2018 20:25:20,Não,37,Masculino,Não,Não,Não,Sim,Não,Não,Sim,27,Sim,20,Sim,Sim,Não,Sim,Não
+29/09/2018 20:27:53,Sim,10477247,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,20,Sim,10,Sim,Sim,Não,Sim,Não
+29/09/2018 20:30:18,Não,60,Feminino,Não,Não,Não,Não,Não,Não,Sim,5,Não,0,Não,Não,Não,Não,Não
+29/09/2018 20:35:28,Sim,35,Feminino,Sim,Sim,Sim,Sim,Não,Sim,Sim,6,Sim,10,Sim,Sim,Sim,Sim,Não
+29/09/2018 20:35:41,Não,20,Masculino,Não,Não,Não,Não,Não,Não,Sim,2,Não,0,Não,Sim,Não,Não,Não
+29/09/2018 20:36:07,Sim,26,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,2,Sim,2,Sim,Sim,Sim,Sim,Não
+29/09/2018 20:39:02,Não,42,Feminino,Não,Não,Não,Não,Sim,Sim,Sim,33,Não,0,Sim,Sim,Sim,Não,Não
+29/09/2018 20:45:30,Não,66,Masculino,Não,Não,Não,Não,Sim,Não,Sim,50,Sim,1,Sim,Sim,Não,Não,Não
+29/09/2018 21:01:13,Sim,35,Feminino,Sim,Não,Sim,Sim,Não,Não,Não,0,Sim,0,Não,Sim,Sim,Sim,Sim
+29/09/2018 21:14:34,Sim,20,Masculino,Sim,Não,Não,Não,Sim,Não,Sim,3,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 21:22:16,Não,51,Masculino,Não,Não,Não,Sim,Não,Não,Sim,24,Não,0,Sim,Sim,Não,Não,Não
+29/09/2018 21:29:30,Sim,30,Feminino,Sim,Não,Sim,Sim,Não,Não,Sim,14,Não,0,Não,Sim,Sim,Sim,Não
+29/09/2018 21:41:39,Sim,40,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,3,Sim,27,Sim,Sim,Não,Sim,Não
+29/09/2018 21:43:08,Sim,30,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,4,Sim,12,Sim,Sim,Não,Sim,Sim
+29/09/2018 21:43:40,Sim,37,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,7,Não,0,Sim,Sim,Não,Sim,Sim
+29/09/2018 21:55:40,Sim,39,Feminino,Sim,Não,Sim,Não,Não,Sim,Sim,10,Sim,10,Sim,Sim,Sim,Sim,Sim
+29/09/2018 21:57:31,Sim,35,Feminino,Sim,Não,Sim,Sim,Sim,Não,Sim,20,Não,0,Não,Sim,Não,Sim,Não
+29/09/2018 21:57:38,Não,35,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,17,Não,0,Sim,Não,Não,Sim,Não
+29/09/2018 22:14:40,Não,56,Feminino,Não,Não,Não,Não,Sim,Sim,Sim,10,Sim,2,Não,Sim,Sim,Não,Não
+29/09/2018 22:33:56,Não,46,Masculino,Sim,Não,Sim,Sim,Não,Não,Sim,1,Não,0,Não,Sim,Não,Não,Não
+29/09/2018 22:50:33,Sim,42,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,1,Sim,1,Sim,Sim,Sim,Sim,Não
+29/09/2018 22:58:14,Sim,21,Feminino,Sim,Não,Não,Sim,Não,Não,Não,0,Sim,Meses,Sim,Sim,Não,Sim,Não
+29/09/2018 23:13:27,Sim,31,Feminino,Não,Não,Não,Não,Não,Sim,Sim,5,Sim,4,Sim,Sim,Não,Sim,Sim
+29/09/2018 23:14:41,Sim,35,Feminino,Sim,Sim,Não,Sim,Sim,Não,Não,0,Não,0,Sim,Sim,Não,Sim,Não
+29/09/2018 23:14:42,Não,36,Feminino,Sim,Não,Sim,Sim,Não,Não,Sim,6,Não,3,Não,Sim,Não,Não,Não
+29/09/2018 23:27:15,Não,35,Feminino,Sim,Sim,Não,Sim,Sim,Sim,Sim,28,Sim,1,Sim,Sim,Não,Não,Sim
+29/09/2018 23:31:41,Sim,56,Feminino,Sim,Sim,Sim,Sim,Sim,Não,Sim,40,Sim,1,Sim,Sim,Sim,Sim,Não
+29/09/2018 23:38:30,Sim,35,Feminino,Sim,Não,Não,Não,Sim,Não,Não,0,Não,20 anos,Não,Sim,Sim,Sim,Sim
+29/09/2018 23:40:37,Sim,36,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,25,Sim,1,Não,Sim,Não,Sim,Não
+29/09/2018 23:47:52,Não,60,Feminino,Sim,Não,Sim,Sim,Não,Não,Sim,30,Não,0,Não,Sim,Não,Não,Não
+29/09/2018 23:49:57,Sim,33,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,5,Sim,Uso sempre,Sim,Sim,Não,Sim,Não
+30/09/2018 00:00:16,Não,21,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,7,Sim,0,Sim,Sim,Não,Sim,Não
+30/09/2018 00:02:13,Sim,31,Feminino,Sim,Não,Não,Sim,Sim,Não,Não,0,Sim,1,Não,Sim,Sim,Sim,Sim
+30/09/2018 00:17:33,Sim,20,Feminino,Sim,Sim,Não,Sim,Sim,Não,Sim,2,Sim,4,Sim,Sim,Não,Sim,Não
+30/09/2018 00:25:33,Sim,29,Feminino,Sim,Não,Sim,Sim,Sim,Sim,Sim,17 anos,Sim,1,Sim,Sim,Não,Sim,Sim
+30/09/2018 00:33:54,Não,22,Feminino,Sim,Não,Não,Não,Não,Não,Sim,6,Não,0,Não,Sim,Não,Não,Não
+30/09/2018 01:25:27,Não,61,Masculino,Sim,Não,Sim,Sim,Não,Sim,Sim,54,Não,Nunca utilizei,Não,Sim,Não,Não,Não
+30/09/2018 01:28:26,Sim,49,Feminino,Sim,Não,Sim,Não,Sim,Não,Sim,4,Sim,10,Sim,Sim,Não,Sim,Não
+30/09/2018 01:45:53,Sim,25,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,1,Sim,2,Sim,Sim,Sim,Sim,Sim
+30/09/2018 03:23:18,Sim,39,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,10,Sim,1,Sim,Sim,Não,Sim,Não
+30/09/2018 05:43:25,Sim,29,Feminino,Não,Não,Não,Sim,Não,Não,Sim,NAo uso diariamente ,Sim,Meses só ,Não,Sim,Sim,Sim,Sim
+30/09/2018 06:42:18,Não,48,Feminino,Não,Não,Não,Não,Não,Não,Sim,20,Sim,3,Sim,Sim,Sim,Sim,Sim
+30/09/2018 06:43:48,Sim,35,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,12,Sim,2,Não,Sim,Sim,Sim,Não
+30/09/2018 07:09:58,Não,62,Feminino,Sim,Não,Não,Não,Não,Não,Sim,9,Não,0,Não,Sim,Não,Não,Não
+30/09/2018 07:26:38,Sim,39,Feminino,Sim,Sim,Não,Sim,Não,Não,Sim,19,Sim,1,Sim,Sim,Sim,Sim,Sim
+30/09/2018 07:45:44,Não,68,Feminino,Não,Não,Não,Não,Sim,Não,Sim,10,Não,1,Não,Sim,Não,Não,Não
+30/09/2018 08:29:00,Não,47,Feminino,Sim,Não,Não,Não,Não,Não,Sim,20 anos,Sim,5,Não,Sim,Não,Sim,Não
+30/09/2018 09:08:33,Não,34,Feminino,Sim,Não,Não,Sim,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+30/09/2018 09:10:05,Não,45,Masculino,Não,Não,Não,Não,Não,Sim,Sim,5,Não,0,Não,Sim,Não,Não,Sim
+30/09/2018 10:05:52,Sim,35,Masculino,Sim,Não,Não,Sim,Não,Sim,Sim,25,Sim,20,Sim,Sim,Não,Sim,Não
+30/09/2018 10:19:06,Sim,41,Feminino,Sim,Sim,Não,Sim,Sim,Não,Não,7,Sim,So enxergo melhor agora com lente ,Não,Sim,Não,Sim,Não
+30/09/2018 11:06:07,Sim,31,Feminino,Sim,Não,Não,Sim,Não,Sim,Sim,2,Sim,5,Sim,Sim,Não,Sim,Sim
+30/09/2018 11:11:53,Não,64,Feminino,Sim,Sim,Não,Sim,Não,Sim,Sim,25,Não,0,Não,Sim,Não,Não,Não
+30/09/2018 11:57:50,Sim,32,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,7,Sim,7,Não,Não,Não,Sim,Não
+30/09/2018 12:09:35,Não,61,Feminino,Sim,Não,Sim,Sim,Não,Não,Sim,10,Sim,7,Sim,Sim,Sim,Não,Não
+30/09/2018 12:22:52,Não,57,Feminino,Sim,Sim,Não,Não,Sim,Sim,Sim,46 anos,Sim,36 anos,Sim,Sim,Não,Não,Não
+30/09/2018 12:29:05,Sim,17,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,1,Sim,9,Sim,Sim,Não,Sim,Sim
+30/09/2018 12:34:54,Sim,49,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,10,Sim,25,Sim,Sim,Não,Sim,Não
+30/09/2018 13:10:11,Não,49,Feminino,Sim,Não,Não,Sim,Não,Não,Sim,3,Não,0,Não,Sim,Não,Não,Não
+30/09/2018 13:21:23,Não,35,Masculino,Sim,Sim,Não,Sim,Não,Sim,Sim,1,Sim,6,Não,Sim,Não,Não,Não
+30/09/2018 13:25:31,Não,50,Feminino,Sim,Não,Não,Não,Não,Sim,Sim,20,Sim,1,Sim,Sim,Sim,Não,Não
+30/09/2018 13:44:18,Não,22,Feminino,Não,Não,Não,Não,Não,Não,Sim,12,Não,0,Sim,Sim,Não,Não,Não
+30/09/2018 13:44:20,Não,31,Masculino,Sim,Não,Não,Sim,Não,Não,Não,0,Não,0,Não,Não,Não,Não,Não
+30/09/2018 13:58:06,Não,64,Feminino,Não,Não,Não,Não,Sim,Não,Sim,6,Não,0,Não,Não,Não,Não,Não
+30/09/2018 14:23:56,Sim,35,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,4,Sim,20,Sim,Sim,Não,Sim,Não
+30/09/2018 14:23:57,Sim,35,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,4,Sim,20,Sim,Sim,Não,Sim,Não
+30/09/2018 15:19:15,Sim,23,Masculino,Sim,Não,Não,Sim,Sim,Não,Sim,5,Não,0,Sim,Sim,Sim,Sim,Sim
+30/09/2018 15:24:44,Não,48,Feminino,Sim,Não,Não,Sim,Não,Sim,Sim,35,Sim,1,Sim,Sim,Não,Não,Não
+30/09/2018 15:24:56,Não,21,Masculino,Sim,Sim,Não,Sim,Não,Não,Sim,0,Não,0,Não,Sim,Não,Sim,Não
+30/09/2018 15:45:03,Sim,30,Feminino,Sim,Não,Não,Sim,Sim,Não,Sim,1,Sim,15 anos,Sim,Sim,Sim,Sim,Não
+30/09/2018 16:12:39,Não,55,Feminino,Sim,Não,Não,Não,Sim,Sim,Sim,15,Não,0,Não,Não,Não,Não,Sim
+30/09/2018 16:17:07,Não,55,Feminino,Sim,Não,Não,Não,Sim,Sim,Sim,15,Não,0,Não,Não,Não,Não,Sim
+30/09/2018 18:19:48,Não,37,Feminino,Sim,Sim,Sim,Sim,Sim,Sim,Sim,5,Sim,Algumas hs,Não,Não,Não,Não,Não
+30/09/2018 18:45:14,Sim,19,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,Uso óculos!,Não,0,Sim,Sim,Sim,Sim,Sim
+30/09/2018 19:24:57,Não,17,Feminino,Sim,Não,Não,Não,Sim,Não,Sim,14,Não,0,Sim,Sim,Não,Não,Não
+30/09/2018 19:30:09,Sim,42,Feminino,Não,Não,Não,Sim,Sim,Não,Sim,25 anos,Sim,20 anos,Sim,Sim,Não,Sim,Sim
+30/09/2018 19:38:47,Não,49,Masculino,Não,Não,Não,Não,Não,Não,Sim,32,Não,0,Não,Sim,Não,Não,Não
+30/09/2018 20:33:51,Não,52,Masculino,Não,Não,Não,Não,Sim,Não,Sim,20,Não,0,Sim,Sim,Não,Não,Não
+30/09/2018 21:59:33,Sim,20,Masculino,Sim,Não,Sim,Não,Sim,Não,Sim,1,Não,0,Não,Sim,Não,Não,Não
