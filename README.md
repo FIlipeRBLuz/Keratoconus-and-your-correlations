@@ -3891,4 +3891,4 @@ plt.show()
 
 ### É notório que a influência do uso contínuo de lentes e o período de utilização prolongado influência na probabilidade de se desenvolver Ceratocone. Podemos concluir que a alergia a poeira tem uma correlação com a portabilidade da doença, porém fatores como exposição a fumaça e o uso contínuo de colírio lubrificante também influenciam para se definir um portador do ceratocone, podendo estes fatores estarem correlacionas a algum tipo de sindrome do olho seco ou a algum tipo de fungo/bactéria que existe tanto na poeira quanto na fumaça proveniente do cigarro. 
 
-### Estudos mais aprofundados serão necessários para que se possa concluir uma correlação mais a fundo de alergias, podendo inclusive realizar um novo levantamento especificando alguns tipos de alergias e problemas respitarorios gerados por ácaros e fungos.
+### Estudos mais aprofundados serão necessários para que se possa concluir uma correlação mais a fundo de alergias, seria inclusive necessária a realização de um novo levantamento especificando alguns tipos de alergias e problemas respiratórios gerados por ácaros e fungos.
