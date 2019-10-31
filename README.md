@@ -1,4 +1,10 @@
+# DESCRIBE:
 
+#### The work below aims in identify the probability of some people having Keratoconus or not, using data obtained by an research using google forms. 
+
+========================================================================================================================================
+
+# CODE
 
 # Análise da correlação de alergias e astigmatismo com a insidência do Ceratocone
 
