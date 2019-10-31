@@ -1,10 +1,15 @@
-# DESCRIBE:
+## Describe:
 
-#### The work below aims in identify the probability of some people having Keratoconus or not, using data obtained by an research using google forms. 
+#### The work below aims in identify the probability of some people having Keratoconus or not, using data obtained by an research using google forms. Also, I tried analize the correlations with keratoconus and people with some alergies, trying to comprove the hypothesis that people with some alergies will be propense to have keratoconus dissease.
 
-===========================================================================================================================
+## Data:
+The data set is avaliable to download at my github page.
 
-# CODE
+## License:
+If you wish to use this work for something is just make the right citation. Thank you and enjoy!
+
+
+## Code Section:
 
 # Análise da correlação de alergias e astigmatismo com a insidência do Ceratocone
 
